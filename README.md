@@ -1,2 +1,2 @@
-# macroeconomics
-Principles of Macroeconomics, a textbook
+# Principles of Macroeconomics 
+# A Textbook
